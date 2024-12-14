@@ -74,4 +74,4 @@ A simple yet feature-rich calendar application that allows users to manage their
 5. Open the application in your browser at `http://localhost:3000`.
 
 ---
-## A link to the deployed app.
+## A link to the deployed app. https://calendar-phcz5xlsq-harsh-salves-projects.vercel.app/
