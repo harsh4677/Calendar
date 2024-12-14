@@ -1,8 +1,3 @@
-- A summary of the features.
-
-- Instructions to run the app locally.
-- A link to the deployed app.
-
 ---
 
 # Calendar Application
@@ -58,7 +53,7 @@ A simple yet feature-rich calendar application that allows users to manage their
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/harsh4677/Calendar.git
    ```
 
 2. Navigate to the project directory:
@@ -80,6 +75,3 @@ A simple yet feature-rich calendar application that allows users to manage their
 
 ---
 ## A link to the deployed app.
-
-# Calendar
-# Calendar
